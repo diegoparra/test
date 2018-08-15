@@ -1,4 +1,4 @@
-codeship_example:
+parra_test:
   build:
     image: parra_test
     dockerfile: Dockerfile
