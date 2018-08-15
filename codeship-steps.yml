@@ -1,0 +1,7 @@
+- name: parra_build_tag
+  tag: master
+  service: parra_test
+  command: echo tagmaster
+- name: parra_build
+  service: parra_test
+  command: echo withouttag
